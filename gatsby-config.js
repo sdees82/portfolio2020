@@ -40,7 +40,22 @@ module.exports = {
               `In my non-coding hours, I'm at the 🏋‍`,
               `I also do design and UX work <span style='color: #27ae60;'>occasionally</span>`,
             ],
-          }
+          },
+          shapeColor: {
+            link: { color: "#171616", hover: "#fff" },
+            shape1: {
+              color: `#000 !important`,
+              opacity: `0.7`,
+            },
+            shape2: {
+              color: `#b957ce`,
+              opacity: `0.1`,
+            },
+            shape3: {
+              color: `#5c58b6`,
+              opacity: `0.7`,
+            },
+          },
         }
       },
       {

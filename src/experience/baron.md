@@ -41,16 +41,27 @@ images:
         ],
     },
     {
+      title: "Achievements",
+      description: "Achievements",
+      layout: "4",
+      files:
+        [
+          { image: ../images/work/codescreen2.jpg },
+          { image: ../images/work/codescreen1.jpg },
+          { image: ../images/work/logo-2-white.jpg },
+        ],
+    },
+    {
       title: "Layout 2",
       description: "Description text for layout 2.",
       layout: "2",
       files:
         [
-          { image: ../images/logo-2.png },
-          { image: ../images/logo-2.png },
-          { image: ../images/logo-2.png },
-          { image: ../images/logo-2.png },
-          { image: ../images/logo-2.png },
+          { image: ../images/work/tfc.png },
+          { image: ../images/work/tfc.png },
+          { image: ../images/work/tfc.png },
+          { image: ../images/work/tfc.png },
+          { image: ../images/work/tfc.png },
         ],
       caption: "New Message",
     },
@@ -61,22 +72,12 @@ images:
       files:
         [
           { image: ../images/logo-2.png },
-          { image: ../images/logo-2.png },
-          { image: ../images/logo-2.png },
-          { image: ../images/logo-2.png },
+          { image: ../images/work/codescreen1.jpg },
+          { image: ../images/work/codescreen2.jpg },
+          { image: ../images/work/codescreen1.jpg }
         ],
     },
-    {
-      title: "Layout 5",
-      description: "Description text for layout 5.",
-      layout: "5",
-      files:
-        [
-          { image: ../images/logo-2.png },
-          { image: ../images/logo-2.png },
-          { image: ../images/logo-2.png },
-        ],
-    },
+    
   ]
 dateFrom: "2017-03-27"
 dateTo: "2020-03-27"
