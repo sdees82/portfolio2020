@@ -12,6 +12,12 @@ skills:
     { title: "Node", image: ../images/skills/nodejs.png },
     { title: "Express", image: ../images/skills/expressjs.png },
     { title: "Restful", image: ../images/skills/restful.png },
+    { title: "C Sharp", image: ../images/skills/csharp.jpg },
+    { title: "jQuery", image: ../images/skills/jquery.png },
+    { title: "PHP", image: ../images/skills/php.png },
+    { title: "MySQL", image: ../images/skills/mysql.png },
+    { title: "Apache", image: ../images/skills/apache.png },
+    { title: "git", image: ../images/skills/git.png },
     { title: "Shopify", image: ../images/skills/shopify-logo.png },
     { title: "Wordpress", image: ../images/skills/wordpress.png },
     { title: "Python", image: ../images/skills/python3.png },
@@ -37,7 +43,7 @@ images:
         [
           { image: ../images/work/raptors.png },
           { image: ../images/work/baron.png },
-          { image: ../images/work/lockerroom.jpg },
+          { image: ../images/work/tfc.png },
         ],
     },
     {
@@ -83,8 +89,9 @@ dateFrom: "2017-03-27"
 dateTo: "2020-03-27"
 ---
 - Developed E-commerce websites using the Shopify platform which has generated millions of dollars in revenue.
-- Contrary to popular belief, Lorem Ipsum is not simply random text
-- Responsible for creating a Shopify application which streamlined the creation of Shopify collections for individual clients using React, Redux,Nodejs, ExpresssJs and the Shopify API.
+- Created and maintained websites for a number of large sports franchises such as the Toronto Raptors, Pittsburg Penguins, LA Sparks, Toronto FC and more. 
+- Responsible for creating a Shopify application which streamlined the creation of Shopify collections for individual clients using React, Redux, Node.js, Expresss.js and the Shopify API.
 - Developed and maintained the company's main website using Wordpress.
-- The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested
-Skills
+- Performed Server migration and maintenance.
+
+

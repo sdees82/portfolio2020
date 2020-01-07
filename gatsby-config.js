@@ -29,16 +29,13 @@ module.exports = {
             availableToHire: true,
             dotColors: ["#0e3e1e", "#6CC551"],
             h1Text: `Hi!, I'm Sean Dees`,
-            h2Text: `I'm a Full Stack Developer who loves working in Backend, I have
-                worked as a software developer since 2006.`,
+            h2Text: "I'm a Full-Stack Web Developer focused on crafting great web experiences.",
             typewriter: [
               `Coding is my passion 😎`,
-              `I'm a 🍕 lover`,
-              `I'm a pretty fast learner and always interested in learning new technologies 🤓`,
-              `I think one of my values is the <strong>ability to resolve problems<strong>`,
-              `I like to share what I know 👨‍🏫`,
-              `In my non-coding hours, I'm at the 🏋‍`,
-              `I also do design and UX work <span style='color: #27ae60;'>occasionally</span>`,
+              `I'm a ☕ and 🐕 lover`,
+              `I love learning new technologies 🤓`,
+              `I love problem solving`,
+              `I love to share what I know 👨‍🏫`,
             ],
           },
           shapeColor: {

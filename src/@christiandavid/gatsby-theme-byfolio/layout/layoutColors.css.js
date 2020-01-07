@@ -73,6 +73,29 @@ const styles = css`
   .css-1h6xgxs-grid{
     width: 60%;
   }
+
+  .css-16svcdi-jobtitle h1, .css-16svcdi-jobtitle h3{
+    color: #fff !important;
+  }
+  
+.css-16svcdi-jobtitle{
+  background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiP…AwLCAtNDgwLjAwMDAwMCkgIj48L3BhdGg+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4=) center center fixed,linear-gradient( 45deg,#1e2021,#1e2021 ) ;
+}
+
+.tl-edges > div > .css-161pllf-section{
+  background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiP…AwLCAtNDgwLjAwMDAwMCkgIj48L3BhdGg+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4=) center center fixed,linear-gradient( 45deg, #fff, #fff ) !important;
+  color: #000;
+}
+
+.aboutme > .page > .css-q8icqk-mainContainer > .layout-inner{
+  background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiP…AwLCAtNDgwLjAwMDAwMCkgIj48L3BhdGg+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4=) center center fixed,linear-gradient( 45deg,#00ff9f,#001eff ) !important;
+}
+
+.css-a7re6p-aboutContent, .css-sxqkmw-contentText li{
+  color: #fff !important;
+}
+
+
 `
 
 export default styles

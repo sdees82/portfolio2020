@@ -12,9 +12,6 @@ skills:
     { title: "Node", image: ../images/skills/nodejs.png },
     { title: "Express", image: ../images/skills/expressjs.png },
     { title: "Restful", image: ../images/skills/restful.png },
-    { title: "Shopify", image: ../images/skills/shopify-logo.png },
-    { title: "Wordpress", image: ../images/skills/wordpress.png },
-    { title: "Python", image: ../images/skills/python3.png },
   ]
 images:
   [
@@ -40,46 +37,47 @@ images:
           { image: ../images/work/consolelog.png  },
         ],
     },
-    {
-      title: "Layout 2",
-      description: "Description text for layout 2.",
-      layout: "2",
-      files:
-        [
-          { image: ../images/logo-2.png },
-          { image: ../images/logo-2.png },
-          { image: ../images/logo-2.png },
-          { image: ../images/logo-2.png },
-          { image: ../images/logo-2.png },
-        ],
-      caption: "New Message",
-    },
+    # {
+    #   title: "Layout 2",
+    #   description: "Description text for layout 2.",
+    #   layout: "2",
+    #   files:
+    #     [
+    #       { image: ../images/work/todo.png },
+    #       { image: ../images/work/machine-learning.png },
+    #       { image: ../images/work/todo.png },
+    #       { image: ../images/work/todo.png },
+    #       { image: ../images/work/todo.png },
+    #     ],
+    #   caption: "New Message",
+    # },
     {
       title: "Layout 3",
       description: "Description text for layout 1.",
       layout: "3",
       files:
         [
-          { image: ../images/logo-2.png },
-          { image: ../images/logo-2.png },
-          { image: ../images/logo-2.png },
-          { image: ../images/logo-2.png },
+          { image: ../images/work/machine-learning.png },
+          { image: ../images/work/machine-learning.png },
+          { image: ../images/work/machine-learning.png },
+          { image: ../images/work/machine-learning.png },
         ],
-    },
-    {
-      title: "Layout 5",
-      description: "Description text for layout 5.",
-      layout: "5",
-      files:
-        [
-          { image: ../images/logo-2.png },
-          { image: ../images/logo-2.png },
-          { image: ../images/logo-2.png },
-        ],
-    },
+    }
+    
+    # {
+    #   title: "Layout 5",
+    #   description: "Description text for layout 5.",
+    #   layout: "5",
+    #   files:
+    #     [
+    #       { image: ../images/work/todo.png },
+    #       { image: ../images/work/todo.png },
+    #       { image: ../images/work/todo.png },
+    #     ],
+    # },
   ]
 dateFrom: "2015-01-01"
-dateTo: "2019-12-31"
+dateTo: "2019-04-27"
 ---
 - Developed E-commerce websites using the Shopify platform which has generated millions of dollars in revenue.
 - Contrary to popular belief, Lorem Ipsum is not simply random text
