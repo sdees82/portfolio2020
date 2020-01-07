@@ -12,6 +12,9 @@ skills:
     { title: "Node", image: ../images/skills/nodejs.png },
     { title: "Express", image: ../images/skills/expressjs.png },
     { title: "Restful", image: ../images/skills/restful.png },
+    { title: "Gatsby", image: ../images/skills/gatsby.png },
+    { title: "Bootstrap", image: ../images/skills/bootstrap.png },
+    { title: "jQuery", image: ../images/skills/jquery.png },
   ]
 images:
   [
