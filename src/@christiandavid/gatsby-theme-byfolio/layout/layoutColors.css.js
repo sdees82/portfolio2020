@@ -73,7 +73,7 @@ div[data-test="slideshow"] + div{
   color: #fff;
 }
 
-div[data-test="slideshow"] + div:nth-child(2) ul li {
+div[data-test="content"] h1, div[data-test="content"] h3{
   color: #fff;
 }
   .css-16svcdi-jobtitle h1, .css-16svcdi-jobtitle h3{
