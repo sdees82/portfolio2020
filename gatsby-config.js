@@ -61,6 +61,27 @@ module.exports = {
           // name:"experience",
           path: `${__dirname}/src`
         }
-      }
+      },
+      {
+        resolve: `gatsby-transformer-remark`,
+        options: {
+          plugins: [
+            {
+              resolve: `gatsby-remark-twitter-cards`,
+              options: {
+                title: 'Sean Dees - Full-Stack Web Developer', // website title
+                separator: '|', // default
+                author: 'Sean Dees',
+                // background: require.resolve('./content/assets/base.png') // path to 1200x630px file or hex code, defaults to black (#000000)
+                fontColor: '#228B22', // defaults to white (#ffffff)
+                titleFontSize: 96, // default
+                subtitleFontSize: 60, // default
+                fontStyle: 'monospace', // default
+                // fontFile: require.resolve('./assets/fonts/someFont.ttf') // will override fontStyle - path to custom TTF font
+              },
+            },
+          ],
+        },
+      },
     ],
   }
