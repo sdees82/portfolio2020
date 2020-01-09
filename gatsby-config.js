@@ -10,8 +10,8 @@ module.exports = {
         // imagesPath: `src/images/`,
         siteTitle: `Portfolio`,
         siteUrl: `https://seandees.dev`,
-        siteName: `Sean Dees`,
-        siteShortName: `SD`,
+        siteName: `Sean Dees Portfolio`,
+        siteShortName: `Sean Dees Portfolio`,
         siteDescription: `This cool App contains information about my work experience as a software developer.`,
         siteKeywords: `Sean Dees, Web developer windsor, Web dev windsor, Software developer, Full Stack Developer`,
 
