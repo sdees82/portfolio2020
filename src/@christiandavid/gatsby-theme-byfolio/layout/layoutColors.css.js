@@ -44,6 +44,10 @@ const styles = css`
       );
     background-size: cover;
   }
+
+  ul[data-test="skills"]{
+    width: 60% !Important;
+  }
   .experience.layout-wrapper .layout-inner {
     background: #3a3d98;
     background: url(${lineSvg}) center center fixed, linear-gradient(
@@ -70,15 +74,15 @@ const styles = css`
     color: #000;
   }
 
-  .css-1h6xgxs-grid{
-    width: 60%;
+  .ul[data-test="skills"]{
+    width: 60% !important;
   }
 
   .css-16svcdi-jobtitle h1, .css-16svcdi-jobtitle h3{
     color: #fff !important;
   }
   
-.css-16svcdi-jobtitle{
+main div:nth-child(3){
   background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiP…AwLCAtNDgwLjAwMDAwMCkgIj48L3BhdGg+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4=) center center fixed,linear-gradient( 45deg,#1e2021,#1e2021 ) ;
 }
 
@@ -87,7 +91,7 @@ const styles = css`
   color: #000;
 }
 
-.aboutme > .page > .css-q8icqk-mainContainer > .layout-inner{
+.aboutme > .page > div:nth-child(4) > .layout-inner{
   background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiP…AwLCAtNDgwLjAwMDAwMCkgIj48L3BhdGg+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4=) center center fixed,linear-gradient( 45deg,#00ff9f,#001eff ) !important;
 }
 
