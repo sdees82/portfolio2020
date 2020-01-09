@@ -3,7 +3,7 @@ var plugins = [{
       options: {"plugins":[],"pathToConfigModule":"C:\\Users\\Windows\\Desktop\\portfolio2020\\node_modules\\@christiandavid\\gatsby-theme-byfolio/src/utils/typography"},
     },{
       plugin: require('C:/Users/Windows/Desktop/portfolio2020/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"Sean Dees","short_name":"SD","description":"This cool App contains information about my work experience as a software developer.","lang":"en","start_url":"/","background_color":"#000","theme_color":"#fff","display":"standalone","icon":"C:\\Users\\Windows\\Desktop\\portfolio2020\\node_modules\\@christiandavid\\gatsby-theme-byfolio/src/images/icon.png"},
+      options: {"plugins":[],"name":"Sean Dees Portfolio","short_name":"Sean Dees Portfolio","description":"Sean Dees Full-Stack Web Developer. He works with HTML, CSS, JavaScript, React, and Node.","lang":"en","start_url":"/","background_color":"#000","theme_color":"#fff","display":"standalone","icon":"C:\\Users\\Windows\\Desktop\\portfolio2020\\node_modules\\@christiandavid\\gatsby-theme-byfolio/src/images/icon.png"},
     },{
       plugin: require('C:/Users/Windows/Desktop/portfolio2020/node_modules/gatsby-plugin-transition-link/gatsby-ssr'),
       options: {"plugins":[],"layout":"C:\\Users\\Windows\\Desktop\\portfolio2020\\node_modules\\@christiandavid\\gatsby-theme-byfolio\\src\\layout\\index.js"},
