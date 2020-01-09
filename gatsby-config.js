@@ -12,7 +12,7 @@ module.exports = {
         siteUrl: `https://seandees.dev`,
         siteName: `Sean Dees Portfolio`,
         siteShortName: `Sean Dees Portfolio`,
-        siteDescription: `This cool App contains information about my work experience as a software developer.`,
+        siteDescription: `Sean Dees Full-Stack Web Developer. He works with HTML, CSS, JavaScript, React, and Node.`,
         siteKeywords: `Sean Dees, Web developer windsor, Web dev windsor, Software developer, Full Stack Developer`,
 
         useMozJpeg: true,
