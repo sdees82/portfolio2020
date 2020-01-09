@@ -34,16 +34,7 @@ const styles = css`
   .home.layout-wrapper h2 {
     color: #fff;
   }
-  .skill.layout-wrapper .layout-inner {
-    color: #fff;
-    background: #9d316e;
-    background: url(${lineSvg}) center center fixed, linear-gradient(
-        45deg,
-        #9d316e,
-        #de2d3e
-      );
-    background-size: cover;
-  }
+
 
   ul[data-test="skills"]{
     width: 60% !Important;
@@ -85,7 +76,16 @@ const styles = css`
 main div:nth-child(3){
   background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiP…AwLCAtNDgwLjAwMDAwMCkgIj48L3BhdGg+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4=) center center fixed,linear-gradient( 45deg,#1e2021,#1e2021 ) ;
 }
-
+.skill.layout-wrapper .layout-inner {
+  color: #fff;
+  background: #9d316e;
+  background: url(${lineSvg}) center center fixed, linear-gradient(
+      45deg,
+      #9d316e,
+      #de2d3e
+    );
+  background-size: cover;
+}
 .tl-edges > div > .css-161pllf-section{
   background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiP…AwLCAtNDgwLjAwMDAwMCkgIj48L3BhdGg+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4=) center center fixed,linear-gradient( 45deg, #fff, #fff ) !important;
   color: #000;
