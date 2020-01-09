@@ -1,6 +1,6 @@
 import { css } from "@emotion/core"
 import lineSvg from "../../../images/line.svg"
-import Hero from "../../../images/hero-2.jpg";
+import Hero from "../../../images/hero-3.png";
 
 const styles = css`
   .e404.layout-wrapper .layout-inner {
