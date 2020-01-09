@@ -65,27 +65,22 @@ const styles = css`
     color: #000;
   }
 
-  .ul[data-test="skills"]{
+  .skills-wrapper{
     width: 60% !important;
   }
+div[data-test="slideshow"] + div{
+  background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiP…AwLCAtNDgwLjAwMDAwMCkgIj48L3BhdGg+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4=) center center fixed,linear-gradient( 45deg,#1e2021,#1e2021 ) ;
+  color: #;;;
+}
 
   .css-16svcdi-jobtitle h1, .css-16svcdi-jobtitle h3{
     color: #fff !important;
   }
   
-main div:nth-child(3){
-  background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiP…AwLCAtNDgwLjAwMDAwMCkgIj48L3BhdGg+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4=) center center fixed,linear-gradient( 45deg,#1e2021,#1e2021 ) ;
-}
-.skill.layout-wrapper .layout-inner {
-  color: #fff;
-  background: #9d316e;
-  background: url(${lineSvg}) center center fixed, linear-gradient(
-      45deg,
-      #9d316e,
-      #de2d3e
-    );
-  background-size: cover;
-}
+// main div:nth-child(3){
+//   background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiP…AwLCAtNDgwLjAwMDAwMCkgIj48L3BhdGg+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4=) center center fixed,linear-gradient( 45deg,#1e2021,#1e2021 ) ;
+// }
+
 .tl-edges > div > .css-161pllf-section{
   background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiP…AwLCAtNDgwLjAwMDAwMCkgIj48L3BhdGg+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4=) center center fixed,linear-gradient( 45deg, #fff, #fff ) !important;
   color: #000;
@@ -95,11 +90,20 @@ main div:nth-child(3){
   background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiP…AwLCAtNDgwLjAwMDAwMCkgIj48L3BhdGg+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4=) center center fixed,linear-gradient( 45deg,#00ff9f,#001eff ) !important;
 }
 
-.css-a7re6p-aboutContent, .css-sxqkmw-contentText li{
-  color: #fff !important;
+// .css-a7re6p-aboutContent, .css-sxqkmw-contentText li{
+//   color: #fff !important;
+// }
+
+.skill.layout-wrapper .layout-inner {
+  color: #fff;
+  background: #9d316e;
+  background: url(${lineSvg}) center center fixed, linear-gradient(
+      45deg,
+      #9d316e,
+      #de2d3e
+    ) !important;
+  background-size: cover;
 }
-
-
 `
 
 export default styles
