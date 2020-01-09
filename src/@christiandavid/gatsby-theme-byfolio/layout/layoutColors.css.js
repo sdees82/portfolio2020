@@ -70,7 +70,7 @@ const styles = css`
   }
 div[data-test="slideshow"] + div{
   background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiP…AwLCAtNDgwLjAwMDAwMCkgIj48L3BhdGg+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4=) center center fixed,linear-gradient( 45deg,#1e2021,#1e2021 ) ;
-  color: #;;;
+  color: #fff;
 }
 
   .css-16svcdi-jobtitle h1, .css-16svcdi-jobtitle h3{
