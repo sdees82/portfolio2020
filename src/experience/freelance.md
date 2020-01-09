@@ -2,7 +2,7 @@
 title: ""
 company: "Freelance"
 logo: ../images/freelance.png
-jobTitle: "Front-End Developer"
+jobTitle: "Full-Stack Web Developer"
 skills:
   [
     { title: "HTML 5", image: ../images/skills/html5.png },
@@ -11,8 +11,11 @@ skills:
      { title: "Redux", image: ../images/skills/redux.png },
     { title: "Node", image: ../images/skills/nodejs.png },
     { title: "Express", image: ../images/skills/expressjs.png },
+    { title: "GraphQl", image: ../images/skills/graphql.png },
+    { title: "Firebase", image: ../images/skills/firebase.png },
     { title: "Restful", image: ../images/skills/restful.png },
     { title: "Gatsby", image: ../images/skills/gatsby.png },
+    { title: "Netlify", image: ../images/skills/netlify.png },
     { title: "Bootstrap", image: ../images/skills/bootstrap.png },
     { title: "jQuery", image: ../images/skills/jquery.png },
   ]
@@ -30,8 +33,8 @@ images:
     #     ],
     # },
     {
-      title: "Front-End Development",
-      description: "Front-End.",
+      title: "Full-Stack Web Developer",
+      description: "",
       layout: "1",
       files:
         [
@@ -55,15 +58,15 @@ images:
     #   caption: "New Message",
     # },
     {
-      title: "Layout 3",
-      description: "Description text for layout 1.",
+      title: "Full-Stack Web Developer",
+      description: "",
       layout: "3",
       files:
         [
           { image: ../images/work/machine-learning.png },
-          { image: ../images/work/machine-learning.png },
-          { image: ../images/work/machine-learning.png },
-          { image: ../images/work/machine-learning.png },
+          { image: ../images/work/weather.png },
+          { image: ../images/work/medical-app.png },
+          { image: ../images/work/todo.png },
         ],
     }
     
@@ -82,9 +85,6 @@ images:
 dateFrom: "2015-01-01"
 dateTo: "2019-04-27"
 ---
-- Developed E-commerce websites using the Shopify platform which has generated millions of dollars in revenue.
-- Contrary to popular belief, Lorem Ipsum is not simply random text
-- Responsible for creating a Shopify application which streamlined the creation of Shopify collections for individual clients using React, Redux,Nodejs, ExpresssJs and the Shopify API.
-- Developed and maintained the company's main website using Wordpress.
-- The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested
-Skills
+- Designed, developed and maintained websites for small businesses and non-profit orgranizations using HTML, CSS3, JavaScript, Firebase and more.
+- Helped clients with domain registration and hosting.
+- Created mockups with design tools such as Sketch and PhotoShop.

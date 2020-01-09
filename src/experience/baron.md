@@ -2,7 +2,7 @@
 title: ""
 company: "Baron Championship Rings"
 logo: ../images/logo-2.png
-jobTitle: "Web Developer"
+jobTitle: "Full-Stack Web Developer"
 skills:
   [
     { title: "HTML 5", image: ../images/skills/html5.png },
@@ -36,8 +36,8 @@ images:
     #     ],
     # },
     {
-      title: "Front-End Development",
-      description: "Front-End.",
+      title: "Full-Stack Web Developer",
+      description: "",
       layout: "1",
       files:
         [
@@ -46,43 +46,43 @@ images:
           { image: ../images/work/tfc.png },
         ],
     },
+    # {
+    #   title: "Achievements",
+    #   description: "I was invloved in the developement ",
+    #   layout: "4",
+    #   files:
+    #     [
+    #       { image: ../images/work/codescreen2.jpg },
+    #       { image: ../images/work/codescreen1.jpg },
+    #       { image: ../images/work/logo-2-white.jpg },
+    #     ],
+    # },
     {
-      title: "Achievements",
-      description: "Achievements",
-      layout: "4",
-      files:
-        [
-          { image: ../images/work/codescreen2.jpg },
-          { image: ../images/work/codescreen1.jpg },
-          { image: ../images/work/logo-2-white.jpg },
-        ],
-    },
-    {
-      title: "Layout 2",
-      description: "Description text for layout 2.",
+      title: "Full-Stack Web Developer",
+      description: "",
       layout: "2",
       files:
         [
-          { image: ../images/work/tfc.png },
-          { image: ../images/work/tfc.png },
-          { image: ../images/work/tfc.png },
-          { image: ../images/work/tfc.png },
-          { image: ../images/work/tfc.png },
+          { image: ../images/work/lockerroom.jpg },
+          { image: ../images/work/lockerroom-4.png },
+          { image: ../images/work/lockerroom-3.png },
+          { image: ../images/work/lockerroom-3.png },
+          { image: ../images/work/lockerroom-2.png },
         ],
-      caption: "New Message",
+      caption: "E-Commerce platform built with .Net",
     },
-    {
-      title: "Layout 3",
-      description: "Description text for layout 1.",
-      layout: "3",
-      files:
-        [
-          { image: ../images/logo-2.png },
-          { image: ../images/work/codescreen1.jpg },
-          { image: ../images/work/codescreen2.jpg },
-          { image: ../images/work/codescreen1.jpg }
-        ],
-    },
+    # {
+    #   title: "Layout 3",
+    #   description: "Description text for layout 1.",
+    #   layout: "3",
+    #   files:
+    #     [
+    #       { image: ../images/logo-2.png },
+    #       { image: ../images/work/codescreen1.jpg },
+    #       { image: ../images/work/codescreen2.jpg },
+    #       { image: ../images/work/codescreen1.jpg }
+    #     ],
+    # },
     
   ]
 dateFrom: "2017-03-27"

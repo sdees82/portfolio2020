@@ -23,7 +23,7 @@ module.exports = {
             gitHub: `sdees82`,
             stackOverflow: `8222431/SeanD`,
             linkedIn: `in/sean-dees-666475105/`,
-            resumeInPdf: `/CV-19.pdf`, // url or local link
+            resumeInPdf: `Dees-Resume.pdf`, // url or local link
           },
         homePage: {
             availableToHire: true,
